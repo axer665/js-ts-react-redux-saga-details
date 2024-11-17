@@ -1,0 +1,9 @@
+@use "vars.scss" as vars;
+@use "mystyle.scss" as mystyle;
+@use "iconfont.scss" as iconfont;
+
+#root {
+  width: 60%;
+  margin: 0 auto;
+  padding: 1em;
+}
